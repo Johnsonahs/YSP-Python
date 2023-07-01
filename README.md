@@ -29,11 +29,10 @@ US Census Data for Florida population data over time, Bureau of Labor Statistics
 **6.Any considerations that need to be taken into account:**
 
 Incomplete data: the tropical cyclone environmental data has many missing values
-Inaccurate data: the margin of errors when calculating or visualizing the frequency of hurricanes and its correlation with productivity of agriculture.
+Inaccurate data: the margin of errors when calculating or visualizing the frequency of hurricanes and its correlation with productivity of workers.
 
 **7.Expected results ( Consult instructor if you don’t have an idea):**
 
-The amount of productivity lost has increased from 2000 to 2019 due to increasing 
+The amount of productivity lost from the impacts of tropical cyclones has increased from 2000 to 2019 due to increasing strengths of these storms.
 
 **8.Github repository link: https://github.com/Johnsonahs/YSP-Python.git**
-
