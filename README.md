@@ -2,7 +2,7 @@
 
 
 
-**1.Your Github username, name of the partner and their github username**
+**1. Your Github username, name of the partner and their github username**
 
 Johnson Li —- Github username: Johnsonahs
 
@@ -18,21 +18,21 @@ Creation of images of notable tropical cyclones in Floridian history to visually
 The visualization of the datasets, including but not limited to the histogram, bar chart and line chart.
 
 
-**4.Possible Packages to be used:**
+**4. Possible Packages to be used:**
 
 Numpy, Pandas, Matplotlib
 
-**5.Possible Datasets to be used (at least 2):**
+**5. Possible Datasets to be used (at least 2):**
 
 US Census Data for Florida population data over time, Bureau of Labor Statistics data about state productivity, Hurricane Best Track Dataset, Statistical Hurricane Intensity Prediction Scheme Environmental Data
 
-**6.Any considerations that need to be taken into account:**
+**6. Any considerations that need to be taken into account:**
 
 Incomplete data: the tropical cyclone environmental data has many missing values
 Inaccurate data: the margin of errors when calculating or visualizing the frequency of hurricanes and its correlation with productivity of workers.
 
-**7.Expected results ( Consult instructor if you don’t have an idea):**
+**7. Expected results ( Consult instructor if you don’t have an idea):**
 
 The amount of productivity lost from the impacts of tropical cyclones has increased from 2000 to 2019 due to increasing strengths of these storms.
 
-**8.Github repository link: https://github.com/Johnsonahs/YSP-Python.git**
+**8. Github repository link: https://github.com/Johnsonahs/YSP-Python.git**
