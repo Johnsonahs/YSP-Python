@@ -1,2 +1,6 @@
 IMERG_CSV/
 .DS_Store
+bin/
+lib/
+share/
+pyvenv.cfg
