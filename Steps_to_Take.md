@@ -1,6 +1,6 @@
 # Analyze the overall trends in hurricane strength
 * Look at the VMAX (maximum wind velocity) column in the data over time
-* Look at the COHC (ocean heat content) column in the data over time
+* Look at the NOHC (measured ocean heat content) column in the data over time
 * The POT (potentional intensity) column is a measure of the maximum potential wind velocity, and could be important
 # Find the hurricanes that have made landfall in Florida
 * Use the LATITUDE and LONGITUDE columns to find the hurricanes that have made landfall in Florida. 
